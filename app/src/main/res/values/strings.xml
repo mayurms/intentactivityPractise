@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">One_Activity_To_Other</string>
+    <string name="first_activity">First Activity</string>
+    <string name="button">Click For Next</string>
+    <string name="welcome_to_new_activity">Welcome to New Activity</string>
+</resources>
